@@ -2,7 +2,7 @@
   <mirrors>
     <mirror>
       <id>maven-public</id>
-      <url>http://nexus.corp.redhat.com/repository/maven-public/</url>
+      <url>https://nexus.corp.redhat.com/repository/maven-public/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
